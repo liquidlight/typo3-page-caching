@@ -1,0 +1,33 @@
+{
+    "name": "liquidlight/typo3-page-caching",
+    "description": "Caching and optimisations",
+    "license": "GPL-2.0+",
+    "type": "typo3-cms-extension",
+    "version": "0.0.0",
+    "authors": [
+        {
+            "name": "Liquid Light",
+            "email": "info@liquidlight.co.uk",
+            "homepage": "https://www.liquidlight.co.uk/"
+        },
+        {
+            "name": "Mike Street",
+            "email": "mike@liquidlight.co.uk"
+        }
+    ],
+    "homepage": "https://github.com/liquidlight/typo3-page-caching",
+    "support": {
+        "issues": "https://github.com/liquidlight/typo3-page-caching/issues",
+        "source": "https://github.com/liquidlight/typo3-page-caching"
+    },
+    "require": {
+        "lochmueller/staticfilecache": "^12.5 || ^13.0",
+        "typo3/cms-core": "^11.5 || ^12.4"
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "page_caching"
+        }
+    }
+}
