@@ -4,7 +4,7 @@
 		<header/>
 		<body>
 			<trans-unit id="tx_staticfilecache_cache.description" xml:space="preserve">
-				<source>Cache the page as a static assest - should be used only for pages where there is no dynamic content</source>
+				<source>Cache the page as a static asset - should be used only for pages where there is no dynamic content</source>
 			</trans-unit>
 		</body>
 	</file>
