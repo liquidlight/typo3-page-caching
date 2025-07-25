@@ -1,3 +1,9 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED
+
+This is no longer supported as it was a misunderstanding as to how the original extension worked. Just use [StaticFileCache](https://extensions.typo3.org/extension/staticfilecache) instead.
+
 # Caching
 
 A local extension which installs [StaticFileCache](https://extensions.typo3.org/extension/staticfilecache) and overwrites some defaults.
